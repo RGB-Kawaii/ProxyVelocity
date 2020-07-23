@@ -1,0 +1,10 @@
+{
+  "name": "node-minecraft-protocol-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "buffer-equal": "^1.0.0",
+    "minecraft-protocol": "^1.13.0"
+  },
+  "description": "A node-minecraft-protocol example"
+}
